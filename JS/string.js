@@ -36,6 +36,7 @@ console.log(myString.indexOf("t"));
 // Will return the first occurance
 // If query is not found, will return '-1'
 // Is case sensitive
+// Returns a number
 console.log(myString.lastIndexOf("t"));
 // last index of returns the last instance of the query
 

@@ -47,4 +47,14 @@ body{
     flex-direction: column;
     background-color: rgb(27, 27, 27);
     color: white;
+    text-align: center;
+    cursor: pointer;
+}
+
+.card div h3{
+   cursor: pointer;
+}
+
+.pink{
+    background-color: rgb(159, 9, 102);
 }

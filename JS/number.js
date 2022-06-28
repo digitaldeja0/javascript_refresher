@@ -44,7 +44,7 @@ console.log(Number.parseFloat(num));
 ("What is returned when Number.parseFloat() can't parse a data type?");
 ("Nan is returned.");
 
-("Will the  Number.parseFloat() function remove non numberical information from an input?");
+("Will the  Number.parseFloat() function remove non numerical information from an input?");
 ("Yes.");
 
 // .toFixed()

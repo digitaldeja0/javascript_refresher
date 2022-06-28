@@ -74,7 +74,7 @@ console.log(myString.toLowerCase());
 // Remeber to always add '()' at the end of the method, even if no params are given.
 
 ("How does one transform all the characters of  string into all uppercase or lowercase appearance?");
-("Use 'ß.toUpperCase' or '.toLowerCase'");
+("Use '.toUpperCase' or '.toLowerCase'");
 
 // .includes Method
 console.log(myString.includes("y"));

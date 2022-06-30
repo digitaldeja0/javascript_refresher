@@ -18,3 +18,6 @@ cat === "lion" ? console.log("Its a Lion!") : console.log("Its not a Lion!");
 // alert("hi");
 // send the url address
 // alert(location);
+
+//to remove an alread tracked file from git use command below
+// git rm -r --cached <fileName>

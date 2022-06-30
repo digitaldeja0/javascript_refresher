@@ -4,7 +4,7 @@
 "2) The console is the terminal.";
 "3) Node has a global object instead of a window object";
 "4) There are common core modules, we use common JS instead of ES6 (require)";
-
+"5) Missing some JS APIs, like Fetch";
 //ACTIVATE AND EXIT NODE
 "how to activate node?";
 "type node";
